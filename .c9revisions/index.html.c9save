@@ -1,2 +1,3 @@
 {"ts":1376854852284,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
 {"contributors":[],"silentsave":false,"ts":1376854903976,"patch":[[{"diffs":[[1,"<html> \n    <body>\n        Hello HTML!\n    </body>\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":58}]],"length":58,"saved":false}
+{"ts":1376855579538,"patch":[[{"diffs":[[0,"<"],[-1,"html> \n    "],[1,"!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta charset=utf-8 />\r\n<title>Github</title>\r\n</head>\r\n"],[0,"<body>"],[1,"\r"],[0,"\n"],[-1,"      "],[0,"  He"]],"start1":0,"start2":0,"length1":29,"length2":101},{"diffs":[[0,"TML!"],[1,"\r"],[0,"\n"],[-1,"    "],[0,"</body>"],[1,"\r"],[0,"\n</h"]],"start1":106,"start2":106,"length1":20,"length2":18}]],"length":128,"saved":false}
